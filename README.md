@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Python, HTML, CSS, JS, Bash Scripting, and any other languages/markup I feel like I want to learn.
 - 📫 How to reach me. 800478416323215370 is my discord userID.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Broski-122&theme=dark&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Broski-122&theme=dark&show_icons=true&include_all_commits=True&text_color=#ff0000) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Broski-122&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
