@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Broski-1
 - 👀 I’m interested in: cybersec, programming, system admininstration and really, almost anything IT related.
 - 🌱 I’m currently learning: Python, HTML, CSS, JS, Bash Scripting, and any other languages/markup I feel like I want to learn.
-- 📫 How to reach me. @broski_:matrix.org , 800478416323215370 Discord UserID, broski1800@tutanota.com.
+- 📫 How to reach me. @broski_:matrix.org , 800478416323215370 Discord UserID, broski1800@protonmail.ch.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Broski-1&theme=dark&show_icons=true&include_all_commits=True)
 
 <!---
